@@ -1,0 +1,5 @@
+F master;45
+Anônimo;30
+Talles;24
+Anônimo;24
+Lock;22
