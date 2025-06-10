@@ -1,5 +1,3 @@
-package com.game.snakegame;
-
 import java.io.*;
 import java.util.*;
 

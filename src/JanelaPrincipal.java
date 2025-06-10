@@ -1,5 +1,3 @@
-package com.game.snakegame;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -51,7 +49,7 @@ public class JanelaPrincipal extends JFrame {
         gbc.anchor = GridBagConstraints.CENTER;
         fundoLabel.add(painelRanking, gbc);
 
-        // com.game.snakegame.Tabuleiro do jogo
+        // Tabuleiro do jogo
         tabuleiro = new Tabuleiro(600, 400);
 
         painelPrincipal.add(fundoLabel, "telaInicial");
