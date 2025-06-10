@@ -1,3 +1,5 @@
+package com.game.snakegame;
+
 import java.awt.Color;
 import java.util.LinkedList;
 

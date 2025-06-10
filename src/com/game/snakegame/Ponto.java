@@ -1,3 +1,5 @@
+package com.game.snakegame;
+
 public class Ponto {
     private int x;
     private int y;
